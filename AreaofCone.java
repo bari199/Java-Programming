@@ -13,3 +13,4 @@ class AreaofCone{
 
 	}
 }
+//this code are simple calculated by area of cone in java 
